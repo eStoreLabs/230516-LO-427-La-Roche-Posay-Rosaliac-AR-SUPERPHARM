@@ -249,7 +249,7 @@
   transition: background-size 300ms ease-in-out;
 }
 #la-roche.la-roche .es-ingr__single:hover {
-  background-size: 105%;
+  background-size: 150%;
 }
 #la-roche.la-roche .es-ingr__main {
   background-repeat: no-repeat;
