@@ -243,8 +243,9 @@
   flex-basis: 245px;
   height: 245px;
   position: relative;
-  background-size: 100%;
+  background-size: cover;
   background-position: center;
+  background-repeat: no-repeat;
   transition: background-size 300ms ease-in-out;
 }
 #la-roche.la-roche .es-ingr__single:hover {
