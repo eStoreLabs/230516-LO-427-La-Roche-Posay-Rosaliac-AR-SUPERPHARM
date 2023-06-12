@@ -96,6 +96,7 @@
   left: 50px;
   animation: slidedown 0.6s ease forwards;
   animation-delay: 0.3s;
+  z-index: 2;
 }
 #la-roche.la-roche .es-kv__content {
   display: flex;
@@ -603,6 +604,15 @@
   }
   #la-roche.la-roche .es-results__single {
     flex-basis: 17ch;
+  }
+  #la-roche.la-roche .es-cross__name {
+    font-size: 18px;
+  }
+  #la-roche.la-roche .es-cross__desc {
+    font-size: 18px;
+  }
+  #la-roche.la-roche .es-cross__link {
+    font-size: 12px;
   }
 }
 @media screen and (min-width: 1241px) {
